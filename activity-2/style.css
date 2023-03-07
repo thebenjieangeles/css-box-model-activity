@@ -1,0 +1,32 @@
+h1 {
+  background-color: rgb(202, 239, 249);
+  box-sizing: border-box;
+  font-weight: bolder;
+  margin: 8px;
+  padding: 16px;
+}
+
+p {
+  background-color: rgb(202, 239, 249);
+  font-size: larger;
+  font-weight: bold;
+  padding: 16px;
+  margin: 8px;
+}
+
+div {
+  background-color: rgb(202, 239, 249);
+  font-size: larger;
+  font-weight: bold;
+  padding: 20px;
+  text-align: center;
+  border: 2px solid #5d6063;
+  border-radius: 5px;
+  width: 150px;
+  box-sizing: border-box;
+  margin: auto;
+}
+
+.button {
+  padding: 8px;
+}
